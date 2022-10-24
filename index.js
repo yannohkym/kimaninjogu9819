@@ -95,7 +95,7 @@ function replaceUrls(text) {
   }
 }
 
-Typer.speed = 5;
+Typer.speed = 1;
 Typer.file = 'kimani.txt';
 Typer.init();
 
