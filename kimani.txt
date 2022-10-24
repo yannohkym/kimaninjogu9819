@@ -5,11 +5,11 @@
 I design and build software specializing in Web Applications and API design & implementation.</p>
 
 I have been doing this for the last 2 years and i intend to do it for the rest of my life<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p> Some of the languages/Frameworks that i am proficient in are Odoo[python Erp software framework], PHP[Laravel & Symfony], . I am still learning  coz everyday is a learning day and you are not wise until you know your knowledge limits) When it comes to frontend development, i ride with Vue  JavaScript Library,JQuery & Vanilla JavaScript for simple applications.</p>
-I am a certified Google Associate Android Developer [[View my credentials <a  target="_blank" href="https://www.credential.net/4c25f62e-0678-4903-a1d4-22aab7743904?key=90e82eb2448e8d4060e315c40dc158722cf4c0212bed2cb47e7b800608487e9c"> HERE</a><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf --> ]] </p>
+
 
 <p>I develop and design micro controllers in I.O.T   too using  c++ & Arduino technologies. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
-<p>I`m also proficient in other complementary technologies such as Database administration, Git, Linux server administration, docker, webpack, Vercel, Gradle, ant, jUnit, Appium, Jest & phpunit. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p>I`m also proficient in other complementary technologies such as Database administration, Git, Linux server administration, docker, webpack, Gradle, ant, jUnit, Appium, Jest & phpunit. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p>Chess , coffee  and football punditry are my addictions of which i don't bother to fight simply because there is nothing i can do about it. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
 <span id="a">Yannoh@codekenya</span>:<span id="b">~</span><span id="c">$</span> cat work.txt
