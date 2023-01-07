@@ -5,10 +5,7 @@
 I design and build software specializing in Web Applications and API design & implementation.</p>
 
 I have been doing this for the last 2 years and i intend to do it for the rest of my life<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p> Some of the languages/Frameworks that i am proficient in are Odoo[python Erp software framework], PHP[Laravel & Symfony], . I am still learning  coz everyday is a learning day and you are not wise until you know your knowledge limits) When it comes to frontend development, i ride with Vue  JavaScript Library,JQuery & Vanilla JavaScript for simple applications.</p>
-
-
 <p>I develop and design micro controllers in I.O.T   too using  c++ & Arduino technologies. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-
 <p>I`m also proficient in other complementary technologies such as Database administration, Git, Linux server administration, docker, webpack, Gradle, ant, jUnit, Appium, Jest & phpunit. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p>Chess , coffee  and football punditry are my addictions of which i don't bother to fight simply because there is nothing i can do about it. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
