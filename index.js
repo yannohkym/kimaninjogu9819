@@ -106,3 +106,4 @@ function t() {
     clearInterval(timer);
   }
 }
+//this is the typer object
